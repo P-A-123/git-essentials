@@ -1,1 +1,3 @@
-Some new stuff in here
+# GIT Essentials / Git for everybody
+
+Updated Readme details from pr-test branch
