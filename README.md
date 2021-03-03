@@ -1,3 +1,3 @@
 # GIT Essentials / Git for everybody
 
-Updated Readme details from pr-test branch
+Master branh rush task change
